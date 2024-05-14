@@ -1,2 +1,3 @@
 # Just-Dodge
-My first unity game. Game for IOS. Made in Unity
+Hello I am Taran Kollu and this repository has all the information for everything used in my Unity Mobile Game which at the time you are reading this is hopefully published to the app store. Not everything here is mine as many of the assets are taken from Unity's asset store and some of the code is taken from online but most of the code, which is found in Just-Dodge/Assets/Scripts is mine. This project was made by me near the beginning/middle of 2024 during my second semester of 9th grade. It is very simple but this project helped me understand many fundamentals of coding better, such as vectors and greatly improved upon my understanding of Unity scripting and game development on the Unity platform in general
+
